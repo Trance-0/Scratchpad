@@ -64,6 +64,6 @@ if __name__ == "__main__":
     tree.update(2,0)
 
     print("Inorder traversal of the Red-Black Tree after deleting 4")
-    print(tree.sum(0,5))
+    print(tree.sum(1,3))
 
     print()
