@@ -92,5 +92,6 @@
         "variant": "cpp"
     },
     "cmake.sourceDirectory": "C:/Users/wuzhe/Documents/GitHub/Tea-10/LeetcodeGamingCenter",
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.ignoreCMakeListsMissing": true
 }
