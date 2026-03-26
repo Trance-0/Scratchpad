@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
+        "*.embeddedhtml": "html",
         "functional": "cpp",
         "any": "cpp",
         "array": "cpp",
@@ -89,7 +90,10 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "ios": "cpp"
     },
     "cmake.sourceDirectory": "C:/Users/wuzhe/Documents/GitHub/Tea-10/LeetcodeGamingCenter",
     "cmake.configureOnOpen": true,
