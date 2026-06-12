@@ -9,7 +9,6 @@ public:
             lo+=1;
             nums[lo]=nums[hi];
         }
-        nums=nums.substr(lo,nums.size()-lo);
         // the array is partially sorted, thus, binary search based on high element..
         int low=0,high=lo;
         while (low<high){
